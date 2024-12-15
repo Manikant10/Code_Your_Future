@@ -1,2 +1,1 @@
-# Video-recommendation-System
-using python and scikit learn algo.
+This is a basic program for calculating mean variance median and standard devaition in a single dataset and a large dataset.
